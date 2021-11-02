@@ -73,7 +73,7 @@
     position: relative;
     max-width: 100%;
     height: auto;
-    background-image: url("../img/Homepage/ai.jpg");
+    /* background-image: url("../img/Homepage/ai.jpg"); */
     background-repeat: no-repeat;
     background-size: cover;
 }
